@@ -22,13 +22,13 @@ repository               : "hpc-neau.github.io/cjzhou"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  name             : "Changjian Zhou"
+  pronouns         : # example: "His"  
+  bio              : "Senior Engineer, Associate Professor, Master's Supervisor, and Bioinformatics Scientist at Heilongjiang Key Laboratory of Agricultural Microbiology, Northeast Agricultural University."
+  location         : "Harbin, P.R. China."
+  employer         : "Northeast Agricultural University"
+  uri              : “http://dscx.neau.edu.cn/ndbssds/detail_ZGVDaEhxakNH_2.html”
+  email            : "zhouchangjian@neau.edu.cn" 
 
   # Academic websites
   #arxiv            : # URL - Update with the correct link to your profile
