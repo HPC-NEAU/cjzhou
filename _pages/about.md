@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# #
 
 
 # 周长建个人简介 #
