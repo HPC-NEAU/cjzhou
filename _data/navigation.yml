@@ -7,7 +7,7 @@
 main:
  
     - title: "个人简介"
-    url: /biography/
+    url: /CV/
     
   - title: "学术成果"
     url: /publications/
