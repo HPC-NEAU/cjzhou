@@ -12,104 +12,78 @@ redirect_from:
 
 科研项目
 ---
-[1] **周长建**,等. 新型生物农药分子创制与产业化：基于人工智能的微生物源农药新活性化合物挖掘与活性研究. 国家重点研发计划子课题. 2023.12~2027.12. <br>
-[2] **周长建**,等. 复杂环境下基于多模态自监督学习的玉米病害识别与预警，黑龙江省省属本科高校“优秀青年教师基础研究支持计划”项目. 2024.01~2026.12.<br>
-[3] **周长建**, 邢金阁, 司震宇,宋佳, 周思寒, 钟玉杰. 农业院校高性能计算平台支撑学生计算能力培养效能提升路径研究.黑龙江省哲学社会科学研究规划项目一般项目.2023.12~2026.12. <br>
-[4] **周长建**, 冯毓权等. 软件的加密解密模块设计. 哈尔滨工业大学横向课题. 2022-2023.（主持）<br>
-[5] **周长建**,等. 黑龙江省“三区人才”项目，2024.01-2025.06. <br>
+<li> **周长建**,等. 新型生物农药分子创制与产业化：基于人工智能的微生物源农药新活性化合物挖掘与活性研究. 国家重点研发计划子课题. 2023.12~2027.12. </li>
+<li> **周长建**,等. 复杂环境下基于多模态自监督学习的玉米病害识别与预警，黑龙江省省属本科高校“优秀青年教师基础研究支持计划”项目. 2024.01~2026.12.</li>
+<li> **周长建**, 邢金阁, 司震宇,宋佳, 周思寒, 钟玉杰. 农业院校高性能计算平台支撑学生计算能力培养效能提升路径研究.黑龙江省哲学社会科学研究规划项目一般项目.2023.12~2026.12. </li>
+<li> **周长建**, 冯毓权等. 软件的加密解密模块设计. 哈尔滨工业大学横向课题. 2022-2023.（主持）</li>
+<li> **周长建**,等. 黑龙江省“三区人才”项目，2024.01-2025.06. </li>
+<br>
 
 教改项目
 ---
-[1] **周长建**, 梁云福, 李建泽, 冯宝龙. 地方院校“七位一体”高性能计算人才培养模式研究与实践. 2022年度黑龙江省高等教育教学改革项目. <br>
-[2] **周长建**, 冯宝龙, 高飞等. 疫情防控常态化背景下农业院校线上线下混合式教学技术支撑体系构建研究. 黑龙江省教育科学规划重点课题.  2021~2022.<br>
-[3] **周长建**, 梁云福等. 线上线下混合式教学模式下基于微表情识别的学生专注度评价方法与实践. 中国教育技术协会高等农业院校分会2021年度智慧校园专项课题.重点课题, 2020~2022.（主持）<br>
-[4] **周长建**,等. 基于三维视觉的高校数据中心监管平台研究与实践. 中国教育技术协会高等农业院校分会2023年度智慧校园专项课题.2022.12~2024.12.<br>
-[5] 邢金阁, **周长建**,刘海波.基于大数据的高等教育教学评价模型研究.中国高等教育学会2016教育信息化专项课题. 2016~2018<br>
-
+<li> **周长建**, 梁云福, 李建泽, 冯宝龙. 地方院校“七位一体”高性能计算人才培养模式研究与实践. 2022年度黑龙江省高等教育教学改革项目. </li>
+<li> **周长建**, 冯宝龙, 高飞等. 疫情防控常态化背景下农业院校线上线下混合式教学技术支撑体系构建研究. 黑龙江省教育科学规划重点课题.  2021~2022.</li>
+<li> **周长建**, 梁云福等. 线上线下混合式教学模式下基于微表情识别的学生专注度评价方法与实践. 中国教育技术协会高等农业院校分会2021年度智慧校园专项课题.重点课题, 2020~2022.（主持）</li>
+<li> **周长建**,等. 基于三维视觉的高校数据中心监管平台研究与实践. 中国教育技术协会高等农业院校分会2023年度智慧校园专项课题.2022.12~2024.12.</li>
+<li> 邢金阁, **周长建**,刘海波.基于大数据的高等教育教学评价模型研究.中国高等教育学会2016教育信息化专项课题. 2016~2018.</li>
+<br>
 
 发表论文
 ------
-[1] Haibo Liu,**Changjian Zhou**, Jing Shen, Pingke Li and Shengping Zhang. Video Caption Detection Algorithm Based on Multiple Instance Learning. ICICSE10, Harbin, China, 2010. (EI)<br>
-[2] Haibo Liu, **Changjian Zhou**, Jing Shen. A Survey on Video Caption Extraction. ICICSE10, Harbin, China, 2010. (EI)<br>
-[3] **周长建**,司震宇,邢金阁,刘海波. 基于Deep Learning网络态势感知建模方法研究,东北农业大学学报,2013(05).(北大核心/一级期刊)<br>
-[4] **Changjian Zhou**, Jinge Xing, Haibo Liu. Multiple Properties-Based Moving Object Detection Algorithm, Journal of Information Processing Systems, vol. 17, no. 1, pp. 124-135, 2021. (EI)<br>
-[5] **Changjian Zhou**, Sihan Zhou, Jinge Xing and Jia Song. Tomato Leaf Disease Identification by Restructured Deep Residual Dense Network. IEEE Access, vol. 9, pp. 28822-28831, 2021. (SCI)<br>
-[6] **Changjian Zhou**, Jia Song, Sihan Zhou, Zhiyao Zhang, Jinge Xing. COVID-19 Detection based on Image Regrouping and ResNet-SVM Using Chest X-ray Images. IEEE Access. vol. 9, pp. 81902-81912, 2021, (SCI)<br>
-[7] **Changjian Zhou**, Zhiyao Zhang, Sihan Zhou, Jinge Xing, Qiufeng Wu, and Jia Song. Grape Leaf Spot Identification under Limited Samples by Fine Grained-GAN. IEEE Access. vol. 9, pp. 100480-100489, 2021.(SCI)<br>
-[8] **Changjian Zhou** , Jinge Xing * . Improved Deep Residual Network for Apple Leaf Disease Identification. Journal of Information Processing Systems. vol. 17, no. 6, pp. 1115-1126, 2021.12.(EI) <br>
-[9] **周长建**，宋佳, 向文胜 * . 基于人工智能的作物病害识别研究进展. 植物保护学报,2022,49(1):316-324. （中文核心/卓越期刊/CSCD,一级期刊）<br>
-[10]周长建,宋佳,向文胜. 人工智能在农药精准施药中的应用研究进展. 农药学学报,2022, 24(05):1099-1107. （中文核心/CSCD）<br>
-[11] Xi Xu, Jingjing Li, Xilang Yang, Li Zhang, Shuo Wang, Guijin Shen, Hui Bing, Jialei, **Changjian Zhou**, Xiangjing Wang, Junwei Zhao * , Wensheng Xiang * . Epicoccum spp. causing maize leaf spot in Heilongjiang Province, China. Plant Disease. vol.106, no. 12, pp.3050-3060,2022.12.  (SCI) <br>
-[12] **Changjian Zhou**, Yujie Zhong, Sihan Zhou, Jia Song * , and Wensheng Xiang * .  Rice leaf disease identification by Residual-distilled transformer. Engineering Applications of Artificial Intelligence. 2023(121):106020. (SCI)<br>
-[13] 邢金阁，张鑫，**周长建**  * . 融合DRAE与SVM的网页防篡改检测. 福州大学学报（自然科学版),2023,51(05):652-656.（中文核心）<br>
-[14] **Changjian Zhou**, Zhongzheng Li, Jia Song, and Wensheng Xiang*. TransVAE-DTA: Transformer and Variational Autoencoder for Drug-Target Binding Affinity Prediction. Computer Methods and Programs in Biomedicine. 2024,244, 108003.(SCI)<br>
-[15] Zishan Wang, Yan Xu, **Changjian Zhou**, Xiujun Sun, et al. Actinoplanes sandaracinus sp. nov., a novel ligninase- producing and cellulose-degrading actinobacterium isolated from soil. International Journal of Systematic and Evolutionary Microbiology. 2024.01.  (SCI) <br>
-[16] Xue Han, Wenzhuo Chen, **Changjian Zhou** * . Musical Genre Classification based on Deep Residual Auto-Encoder and Support Vector Machine. Journal of Information Processing Systems. vol. 20, no.1, pp.13-23, 2024.02. (EI) <br>
-[17] Yiqian Zhang, **Changjian Zhou** * . PfgPDI: Pocket Feature-Enabled Graph Neural Network for Protein-Drug Interaction Prediction. Journal of Bioinformatics and Computational Biology. Vol. 22, No. 02, 2450004, 2024.05.30. (SCI) <br>
-[18] **Changjian Zhou**, Yutong Zhang, and Wenzhong Zhao*. Corp Leaf Disease Identification using Deep Transfer Learning. Journal of Information Processing Systems. vol. 20, no. 2, pp. 149-158, 2024.04.  (EI)<br>
-[19] **Changjian Zhou**, Zhenyuan Zhao, Wenzhuo Chen, Yuquan Feng, Jia Song * , and Wensheng Xiang * . Residual attention based multi-label learning for apple leaf disease identification. Journal of Agricultural Engineering. (SCI). <br>
-[20] **Changjian Zhou**, He Jia, Jinge Xing, and Yunfu Liang * . Multi-feature Fusion for E-learning based Student Concentration Analysis. Journal of Information Processing Systems. (EI/ESCI). (Accepted).<br>
-[21] **周长建**,邢金阁,冯宝龙,李建泽,梁云福. 地方院校“七位一体”高性能计算人才培养模式研究. 工业和信息化教育. (已接收). <br>
+<li> Haibo Liu,**Changjian Zhou**, Jing Shen, Pingke Li and Shengping Zhang. Video Caption Detection Algorithm Based on Multiple Instance Learning. ICICSE10, Harbin, China, 2010. (EI)</li>
+<li> Haibo Liu, **Changjian Zhou**, Jing Shen. A Survey on Video Caption Extraction. ICICSE10, Harbin, China, 2010. (EI)</li>
+<li> **周长建**,司震宇,邢金阁,刘海波. 基于Deep Learning网络态势感知建模方法研究,东北农业大学学报,2013(05).(北大核心/一级期刊)</li>
+<li> **Changjian Zhou**, Jinge Xing, Haibo Liu. Multiple Properties-Based Moving Object Detection Algorithm, Journal of Information Processing Systems, vol. 17, no. 1, pp. 124-135, 2021. (EI)</li>
+<li> **Changjian Zhou**, Sihan Zhou, Jinge Xing and Jia Song. Tomato Leaf Disease Identification by Restructured Deep Residual Dense Network. IEEE Access, vol. 9, pp. 28822-28831, 2021. (SCI)</li>
+<li> **Changjian Zhou**, Jia Song, Sihan Zhou, Zhiyao Zhang, Jinge Xing. COVID-19 Detection based on Image Regrouping and ResNet-SVM Using Chest X-ray Images. IEEE Access. vol. 9, pp. 81902-81912, 2021, (SCI)</li>
+<li> **Changjian Zhou**, Zhiyao Zhang, Sihan Zhou, Jinge Xing, Qiufeng Wu, and Jia Song. Grape Leaf Spot Identification under Limited Samples by Fine Grained-GAN. IEEE Access. vol. 9, pp. 100480-100489, 2021.(SCI)</li>
+<li> **Changjian Zhou** , Jinge Xing * . Improved Deep Residual Network for Apple Leaf Disease Identification. Journal of Information Processing Systems. vol. 17, no. 6, pp. 1115-1126, 2021.12.(EI) </li>
+<li>**周长建**，宋佳, 向文胜 * . 基于人工智能的作物病害识别研究进展. 植物保护学报,2022,49(1):316-324. （中文核心/卓越期刊/CSCD,一级期刊）</li>
+<li>周长建,宋佳,向文胜. 人工智能在农药精准施药中的应用研究进展. 农药学学报,2022, 24(05):1099-1107. （中文核心/CSCD）</li>
+<li> Xi Xu, Jingjing Li, Xilang Yang, Li Zhang, Shuo Wang, Guijin Shen, Hui Bing, Jialei, **Changjian Zhou**, Xiangjing Wang, Junwei Zhao * , Wensheng Xiang * . Epicoccum spp. causing maize leaf spot in Heilongjiang Province, China. Plant Disease. vol.106, no. 12, pp.3050-3060,2022.12.  (SCI) </li>
+<li> **Changjian Zhou**, Yujie Zhong, Sihan Zhou, Jia Song * , and Wensheng Xiang * .  Rice leaf disease identification by Residual-distilled transformer. Engineering Applications of Artificial Intelligence. 2023(121):106020. (SCI)</li>
+<li> 邢金阁，张鑫，**周长建**  * . 融合DRAE与SVM的网页防篡改检测. 福州大学学报（自然科学版),2023,51(05):652-656.（中文核心）</li>
+<li>**Changjian Zhou**, Zhongzheng Li, Jia Song, and Wensheng Xiang*. TransVAE-DTA: Transformer and Variational Autoencoder for Drug-Target Binding Affinity Prediction. Computer Methods and Programs in Biomedicine. 2024,244, 108003.(SCI)</li>
+<li> Zishan Wang, Yan Xu, **Changjian Zhou**, Xiujun Sun, et al. Actinoplanes sandaracinus sp. nov., a novel ligninase- producing and cellulose-degrading actinobacterium isolated from soil. International Journal of Systematic and Evolutionary Microbiology. 2024.01.  (SCI)</li>
+<li> Xue Han, Wenzhuo Chen, **Changjian Zhou** * . Musical Genre Classification based on Deep Residual Auto-Encoder and Support Vector Machine. Journal of Information Processing Systems. vol. 20, no.1, pp.13-23, 2024.02. (EI) </li>
+<li> Yiqian Zhang, **Changjian Zhou** * . PfgPDI: Pocket Feature-Enabled Graph Neural Network for Protein-Drug Interaction Prediction. Journal of Bioinformatics and Computational Biology. Vol. 22, No. 02, 2450004, 2024.05.30. (SCI) </li>
+<li> **Changjian Zhou**, Yutong Zhang, and Wenzhong Zhao*. Corp Leaf Disease Identification using Deep Transfer Learning. Journal of Information Processing Systems. vol. 20, no. 2, pp. 149-158, 2024.04.  (EI)</li>
+<li> **Changjian Zhou**, Zhenyuan Zhao, Wenzhuo Chen, Yuquan Feng, Jia Song * , and Wensheng Xiang * . Residual attention based multi-label learning for apple leaf disease identification. Journal of Agricultural Engineering. (SCI). </li>
+<li> **Changjian Zhou**, He Jia, Jinge Xing, and Yunfu Liang * . Multi-feature Fusion for E-learning based Student Concentration Analysis. Journal of Information Processing Systems. (EI/ESCI). (Accepted).</li>
+<li>**周长建**,邢金阁,冯宝龙,李建泽,梁云福. 地方院校“七位一体”高性能计算人才培养模式研究. 工业和信息化教育. (已接收). </li>
+<br>
 
 编著与教材
 ---
-[1] 刘海波,沈晶,郭耸等.Visual C++ 数字图像处理技术详解[M].机械工业出版社,2010（负责编写第10~11章）<br>
-[2] 刘海波,沈晶,**周长建**．Access 2003 项目教程[M].人民邮电出版社,2011<br>
-[3] 沈晶,刘海波,**周长建**. Visual C++ 数字图像处理案例详解[M].机械工业出版社,2012（机械工业出版社）
+<li> 刘海波,沈晶,郭耸等.Visual C++ 数字图像处理技术详解[M].机械工业出版社,2010（负责编写第10~11章）</li>
+<li> 刘海波,沈晶,**周长建**．Access 2003 项目教程[M].人民邮电出版社,2011</li>
+<li> 沈晶,刘海波,**周长建**. Visual C++ 数字图像处理案例详解[M].机械工业出版社,2012（机械工业出版社）</li>
+<br>
 
-荣誉奖励
-------
-[1] 罗盈,乔颖,**周长建**等.基于移动图书馆新服务模式系统安全保障研究.中国图书馆学会高等学校图书馆分会2016年研究项目二等奖.2017.06.<br>
-[2] **周长建**,梁云福,邢金阁,冯宝龙. 基于机器学习的网络防篡改检测技术研究. 2021年高等农业院校教育信息化建设研讨会优秀论文一等奖. 中国教育技术协会高等农业院校分会. 2021.12.<br>
-[3] **周长建**,梁云福,邢金阁. 基于跨模态机器学习的在线课堂学生专注度分析系统. 2022年度中国教育技术协会信息化助力疫情防控优秀应用案例. 颁奖机构：中国教育技术协会高等农业院校分会. 2022.12.<br>
-[4] **周长建**,贾贺,赵振元等. 基于跨模态机器学习的在线课堂学生走神识别模型. 2022年高等农业院校教育信息化建设研讨会最佳论文奖. 中国教育技术协会高等农业院校分会. 2022.12.<br>
-[5] **周长建**. 2022年度全国高等农业院校教育信息化建设先进工作者. 颁奖机构：中国教育技术协会高等农业院校分会. 2022.12.<br>
-[6] **周长建**. 黑龙江省第七届“知识产权杯”高校发明创新竞赛优秀指导教师. 2023.07.<br>
-[7] **周长建**. 2023年第十七届iCAN 大学生创新创业大赛（黑龙江赛区）优秀指导教师. 2023.10.<br>
-
+参与国家及地方标准起草工作
+---
+<li> 《IPv6+技术要求 第1部分：应用与需求场景》. 国家标准. 20221745-T-339，归口单位：全国通信标准化技术委员会编号TC485，主管部门：工业和信息化部（通信）. 东北农业大学：**周长建** 等.</li>
+<li>《IPv6支持度评测指标与评测方法 第1部分：网站》. 国家标准. 20221745-T-339，归口单位：全国通信标准化技术委员会编号TC485，主管部门：工业和信息化部（通信）. 东北农业大学：**周长建** 等.</li>
+<li> 《IPv6支持度评测指标与评测方法 第4部分：数据中心》. 国家标准. 20221745-T-339，归口单位：全国通信标准化技术委员会编号TC485，主管部门：工业和信息化部（通信）. 东北农业大学：**周长建** 等.</li>
+<li> 农业核心资源数据库构建技术规范. 黑龙江省地方标准.  主要起草人：康承昊、吴秋峰、**周长建** 等.</li>
+<br>
 
 发明专利
 ------
-[1] **周长建**,宋佳,邢金阁,周思寒,冯宝龙,刘宇航. 一种基于DCGAN与RDN的作物病害识别方法及系统. 中国. （已授权）<br>
-[2] **周长建**,徐健. 一种基于DRAE与SVM相结合的网页防篡改检测方法. （已授权）<br>
-[3] **周长建**,宋佳,张之尧. 一种基于细粒度对抗生成网络的葡萄叶片病斑识别方法.中国.（已授权）<br>
-[4] **周长建**,韩雪,周思寒. 基于视觉transformer的水稻病害识别方法.中国. （已授权）<br>
-[5] **周长建**,梁云福,贾贺. 基于多特征融合的在线课堂学生专注度评价方法及系统.中国.（等待实审提案）<br>
-[6] **周长建**,冯宝龙,陈文卓,冯毓权. 一种基于RAML的作物叶片复合侵染性多病害识别方法. （等待实审提案）<br>
-[7] **周长建**,向文胜,宋佳,钟玉杰. 一种基于TransGAT的药物-靶标相互作用预测方法. 中国. （等待实审提案）<br>
-[8] **周长建** ,宋佳,李中正,向文胜. 一种基于TransVAE的药物-靶标结合亲和力预测方法. 中国. （等待实审提案）<br>
-[9] **周长建**,宋佳,张鑫,向文胜. 一种基于RGDA-DDI 的药物-药物相互作用预测方法. 中国. （等待实审提案）<br>
-[10] 储李节, **周长建** ,钟玉杰. 一种基于Transformer 的恶意软件检测方法. 中国. （等待实审提案）<br>
-[11] 张鑫,**周长建**. 一种基于自监督学习Faster R-ViT 的玉米雄穗检测及计数方法. 中国. （等待实审提案）<br>
-[12] 张艺千,**周长建** , 向文胜, 吴秋峰, 康承昊, 宋佳. 一种基于PfgPDI 的蛋白质-配体相互作用预测方法. 中国. （等待实审提案）<br>
-[13] 闫笑川, **周长建**. 一种基于分解策略与深度学习的电力负荷预测方法. 中国. （等待实审提案）<br>
-
-指导学生比赛获奖
----
-[1] 基于ZigBee与IPv6技术的农田温度场监测系统. 教育部第四届下一代互联网技术创新大赛.全国三等奖（指导教师：刘立意,**周长建**）.2018.12.<br>
-[2] 基于物联网的稻田智能节水灌溉系统. 第十四届全国大学生节能减排社会实践与科技竞赛三等奖（指导教师：**周长建** ）. 2021.06.<br>
-[3] 基于IPv6与深度学习的农作物病害识别系统, 首届IPv6技术应用创新大赛科教赛道暨第六届下一代互联网技术创新大赛全国二等奖, 2022.12.（指导教师：**周长建**, 宋佳）<br>
-[4] 基于IPv6与深度学习的在线课堂学生专注度分析系统, 首届IPv6技术应用创新大赛科教赛道暨第六届下一代互联网技术创新大赛全国三等奖, 2022.12.（指导教师：**周长建，** 梁云福）<br>
-[5] 储李节等. 基于DRAE与SVM的网络安全在线值班系. 第十八届工商银行“挑战杯”黑龙江省大学生课外学术科技作品竞赛二等奖. 2023.06. （指导教师：**周长建**）<br>
-[6] 储李节等. 基于DRAE与SVM的网络安全在线值班系. 东北农业大学第十八届“挑战杯”大学生课外学术科技作品竞赛一等奖. 2023.05. （指导教师：**周长建** ）<br>
-[7] 钟玉杰等. 基于DCGAN与RDN的作物病害识别方法及系统. 东北农业大学第十八届“挑战杯”大学生课外学术科技作品竞赛一等奖. 2023.05. （指导教师：**周长建**）<br>
-[8] 钟题声等. 基于多特征融合的课堂专注度分析系统. 东北农业大学第十八届“挑战杯”大学生课外学术科技作品竞赛二等奖. 2023.05. （指导教师：**周长建** ）<br>
-[9] 王旭. 一种基于多模态机器学习的网页防篡改检测方法. 黑龙江省第七届“知识产权杯”高校发明创新竞赛二等奖. 2023.07.  (指导教师：**周长建**)<br>
-[10] 张鑫. 一种基于Faster R-ViT的玉米雄穗检测方法. 黑龙江省第七届“知识产权杯”高校发明创新竞赛二等奖. 2023.07. (指导教师：**周长建** )<br>
-[11] 储李节. 基于Trans-net多模态技术的恶意软件检测系统. 黑龙江省第七届“知识产权杯”高校发明创新竞赛三等奖. 2023.07. (指导教师：**周长建**)<br>
-[12] 钟玉杰. 基于DCGAN与残差蒸馏Transformer的作物病害识别系统. 黑龙江省第七届“知识产权杯”高校发明创新竞赛一等奖. (指导教师：**周长建** , 宋佳)<br>
-[13] 储李节. 高层语义网络安全有限公司. “建行杯”第九届中国国际“互联网+”大学生创新创业大赛黑龙江赛区铜奖. 2023.08. (指导教师：**周长建**) <br>
-[14] 张鑫. 基于人工智能的农作物病害识别系统. 第一届黑龙江省大学生植物保护专业能力大赛一等奖. （指导教师：宋佳，**周长建** ）<br>
-[15] 张鑫. 慧眼识病害——作物病害识别的先锋者. 2023年第十七届iCAN 大学生创新创业大赛（黑龙江赛区）一等奖. 2023.10. （指导教师：**周长建**）<br>
-[16] 闫笑川. 基于LGB-STLP和小程序云的智慧用电系统. 2023年第十七届iCAN 大学生创新创业大赛（黑龙江赛区）三等奖. 2023.10. （指导教师：**周长建**）<br>
-
-起草标准
----
-[1] 《IPv6+技术要求 第1部分：应用与需求场景》. 国家标准. 20221745-T-339，归口单位：全国通信标准化技术委员会编号TC485，主管部门：工业和信息化部（通信）. 东北农业大学：**周长建** 等.<br>
-[2] 《IPv6支持度评测指标与评测方法 第1部分：网站》. 国家标准. 20221745-T-339，归口单位：全国通信标准化技术委员会编号TC485，主管部门：工业和信息化部（通信）. 东北农业大学：**周长建** 等.<br>
-[3] 《IPv6支持度评测指标与评测方法 第4部分：数据中心》. 国家标准. 20221745-T-339，归口单位：全国通信标准化技术委员会编号TC485，主管部门：工业和信息化部（通信）. 东北农业大学：**周长建** 等<br>
-[4] 农业核心资源数据库构建技术规范. 黑龙江省地方标准.  主要起草人：康承昊、吴秋峰、**周长建** 等.<br>
-
+<li> **周长建**,等. 一种基于DCGAN与RDN的作物病害识别方法及系统. 中国. （已授权）</li>
+<li> **周长建**,等. 一种基于DRAE与SVM相结合的网页防篡改检测方法. （已授权）</li>>
+<li> **周长建**,等. 一种基于细粒度对抗生成网络的葡萄叶片病斑识别方法.中国.（已授权）</li>
+<li> **周长建**,等. 基于视觉transformer的水稻病害识别方法.中国. （已授权）</li>
+<li> **周长建**,等. 基于多特征融合的在线课堂学生专注度评价方法及系统.中国.（等待实审提案）</li>
+<li> **周长建**,等. 一种基于RAML的作物叶片复合侵染性多病害识别方法. （等待实审提案）</li>
+<li> **周长建**,等. 一种基于TransGAT的药物-靶标相互作用预测方法. 中国. （等待实审提案）</li>
+<li> **周长建** ,等. 一种基于TransVAE的药物-靶标结合亲和力预测方法. 中国. （等待实审提案）</li>
+<li> **周长建**,等. 一种基于RGDA-DDI 的药物-药物相互作用预测方法. 中国. （等待实审提案）</li>
+<li> 储李节, **周长建** ,等. 一种基于Transformer 的恶意软件检测方法. 中国. （等待实审提案）</li>
+<li> 张鑫,**周长建**. 一种基于自监督学习Faster R-ViT 的玉米雄穗检测及计数方法. 中国. （等待实审提案）</li>
+<li> 张艺千,**周长建** , 向文胜, 吴秋峰, 康承昊, 宋佳. 一种基于PfgPDI 的蛋白质-配体相互作用预测方法. 中国. （等待实审提案）<br>
+<li> 闫笑川, **周长建**. 一种基于分解策略与深度学习的电力负荷预测方法. 中国. （等待实审提案）</li>
+<br>
 
 软件著作权
 ---
