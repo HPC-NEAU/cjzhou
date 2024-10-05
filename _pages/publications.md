@@ -42,7 +42,7 @@ redirect_from:
 <li> <b>Changjian Zhou</b>, Zhiyao Zhang, Sihan Zhou, Jinge Xing, Qiufeng Wu, and Jia Song. Grape Leaf Spot Identification under Limited Samples by Fine Grained-GAN. IEEE Access. vol. 9, pp. 100480-100489, 2021.(SCI)</li>
 <li> <b>Changjian Zhou</b> , Jinge Xing * . Improved Deep Residual Network for Apple Leaf Disease Identification. Journal of Information Processing Systems. vol. 17, no. 6, pp. 1115-1126, 2021.12.(EI) </li>
 <li><b>周长建</b>，宋佳, 向文胜 * . 基于人工智能的作物病害识别研究进展. 植物保护学报,2022,49(1):316-324. （中文核心/卓越期刊/CSCD,一级期刊）</li>
-<li>周长建,宋佳,向文胜. 人工智能在农药精准施药中的应用研究进展. 农药学学报,2022, 24(05):1099-1107. （中文核心/CSCD）</li>
+<li><b>周长建</b>,宋佳,向文胜. 人工智能在农药精准施药中的应用研究进展. 农药学学报,2022, 24(05):1099-1107. （中文核心/CSCD）</li>
 <li> Xi Xu, Jingjing Li, Xilang Yang, Li Zhang, Shuo Wang, Guijin Shen, Hui Bing, Jialei, <b>Changjian Zhou</b>, Xiangjing Wang, Junwei Zhao , Wensheng Xiang. Epicoccum spp. causing maize leaf spot in Heilongjiang Province, China. Plant Disease. vol.106, no. 12, pp.3050-3060,2022.12.  (SCI) </li>
 <li> <b>Changjian Zhou</b>, Yujie Zhong, Sihan Zhou, Jia Song * , and Wensheng Xiang * .  Rice leaf disease identification by Residual-distilled transformer. Engineering Applications of Artificial Intelligence. 2023(121):106020. (SCI)</li>
 <li> 邢金阁，张鑫，<b>周长建</b> . 融合DRAE与SVM的网页防篡改检测. 福州大学学报（自然科学版),2023,51(05):652-656.（中文核心）</li>
