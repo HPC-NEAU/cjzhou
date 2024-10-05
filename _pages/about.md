@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-This is the front page of a website that is powered by the [Academic Pages template]
-A data-driven personal website
+AI药物设计组简介
 ======
 Like many other Jekyll-based GitHub Pages templates
