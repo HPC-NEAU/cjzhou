@@ -9,28 +9,33 @@ redirect_from:
 
 {% include base_path %}
 
-<font face="微软雅黑" size=4>
+
 
 <font face="微软雅黑" size=5>科研项目</font>
 
+<font face="微软雅黑" size=4>
 <li> <b>周长建</b>,等. 新型生物农药分子创制与产业化：基于人工智能的微生物源农药新活性化合物挖掘与活性研究. 国家重点研发计划子课题. 2023.12~2027.12. </li>
 <li> <b>周长建</b>,等. 复杂环境下基于多模态自监督学习的玉米病害识别与预警，黑龙江省省属本科高校“优秀青年教师基础研究支持计划”项目. 2024.01~2026.12.</li>
 <li> <b>周长建</b>, 邢金阁, 司震宇,宋佳, 周思寒, 钟玉杰. 农业院校高性能计算平台支撑学生计算能力培养效能提升路径研究.黑龙江省哲学社会科学研究规划项目一般项目.2023.12~2026.12. </li>
 <li> <b>周长建</b>, 冯毓权等. 软件的加密解密模块设计. 哈尔滨工业大学横向课题. 2022-2023.（主持）</li>
 <li> <b>周长建</b>,等. 黑龙江省“三区人才”项目，2024.01-2025.06. </li>
+</font>
 <br>
 
 <font face="微软雅黑" size=5>教改项目</font>
 
+<font face="微软雅黑" size=4>
 <li> <b>周长建</b>, 梁云福, 李建泽, 冯宝龙. 地方院校“七位一体”高性能计算人才培养模式研究与实践. 2022年度黑龙江省高等教育教学改革项目. </li>
 <li> <b>周长建</b>, 冯宝龙, 高飞等. 疫情防控常态化背景下农业院校线上线下混合式教学技术支撑体系构建研究. 黑龙江省教育科学规划重点课题.  2021~2022.</li>
 <li> <b>周长建</b>, 梁云福等. 线上线下混合式教学模式下基于微表情识别的学生专注度评价方法与实践. 中国教育技术协会高等农业院校分会2021年度智慧校园专项课题.重点课题, 2020~2022.（主持）</li>
 <li> <b>周长建</b>,等. 基于三维视觉的高校数据中心监管平台研究与实践. 中国教育技术协会高等农业院校分会2023年度智慧校园专项课题.2022.12~2024.12.</li>
 <li> 邢金阁, <b>周长建</b>,刘海波.基于大数据的高等教育教学评价模型研究.中国高等教育学会2016教育信息化专项课题. 2016~2018.</li>
+</font>
 <br>
 
 <font face="微软雅黑" size=5>发表论文</font>
 
+<font face="微软雅黑" size=4>
 <li> Haibo Liu,<b>Changjian Zhou</b>, Jing Shen, Pingke Li and Shengping Zhang. Video Caption Detection Algorithm Based on Multiple Instance Learning. ICICSE10, Harbin, China, 2010. (EI)</li>
 <li> Haibo Liu, <b>Changjian Zhou</b>, Jing Shen. A Survey on Video Caption Extraction. ICICSE10, Harbin, China, 2010. (EI)</li>
 <li> <b>周长建</b>,司震宇,邢金阁,刘海波. 基于Deep Learning网络态势感知建模方法研究,东北农业大学学报,2013(05).(北大核心/一级期刊)</li>
@@ -52,25 +57,31 @@ redirect_from:
 <li> <b>Changjian Zhou</b>, Zhenyuan Zhao, Wenzhuo Chen, Yuquan Feng, Jia Song * , and Wensheng Xiang * . Residual attention based multi-label learning for apple leaf disease identification. Journal of Agricultural Engineering. (SCI). </li>
 <li> <b>Changjian Zhou</b>, He Jia, Jinge Xing, and Yunfu Liang * . Multi-feature Fusion for E-learning based Student Concentration Analysis. Journal of Information Processing Systems. (EI/ESCI). (Accepted).</li>
 <li><b>周长建</b>,等. 地方院校“七位一体”高性能计算人才培养模式研究. 工业和信息化教育. (已接收). </li>
+</font>
 <br>
 
 <font face="微软雅黑" size=5>编著与教材</font>
 
+<font face="微软雅黑" size=4>
 <li> 刘海波,沈晶,郭耸等.Visual C++ 数字图像处理技术详解[M].机械工业出版社,2010（负责编写第10~11章）</li>
 <li> 刘海波,沈晶,<b>周长建</b>．Access 2003 项目教程[M].人民邮电出版社,2011</li>
 <li> 沈晶,刘海波,<b>周长建</b>. Visual C++ 数字图像处理案例详解[M].机械工业出版社,2012（机械工业出版社）</li>
+</font>
 <br>
 
 <font face="微软雅黑" size=5>参与国家及地方标准起草工作</font>
 
+<font face="微软雅黑" size=4>
 <li> 《IPv6+技术要求 第1部分：应用与需求场景》. 国家标准. 20221745-T-339，归口单位：全国通信标准化技术委员会编号TC485，主管部门：工业和信息化部（通信）. 东北农业大学：<b>周长建</b>，等.</li>
 <li>《IPv6支持度评测指标与评测方法 第1部分：网站》. 国家标准. 20221745-T-339，归口单位：全国通信标准化技术委员会编号TC485，主管部门：工业和信息化部（通信）. 东北农业大学：<b>周长建</b> 等.</li>
 <li> 《IPv6支持度评测指标与评测方法 第4部分：数据中心》. 国家标准. 20221745-T-339，归口单位：全国通信标准化技术委员会编号TC485，主管部门：工业和信息化部（通信）. 东北农业大学：<b>周长建</b>等.</li>
 <li> 农业核心资源数据库构建技术规范. 黑龙江省地方标准.  主要起草人：康承昊、吴秋峰、<b>周长建</b> 等.</li>
+</font>
 <br>
 
 <font face="微软雅黑" size=5>发明专利</font>
 
+<font face="微软雅黑" size=4>
 <li> <b>周长建</b>,等. 一种基于DCGAN与RDN的作物病害识别方法及系统. 中国. （已授权）</li>
 <li> <b>周长建</b>,等. 一种基于DRAE与SVM相结合的网页防篡改检测方法. （已授权）</li>>
 <li> <b>周长建</b>,等. 一种基于细粒度对抗生成网络的葡萄叶片病斑识别方法.中国.（已授权）</li>
@@ -84,11 +95,12 @@ redirect_from:
 <li> 张鑫,<b>周长建</b>. 一种基于自监督学习Faster R-ViT 的玉米雄穗检测及计数方法. 中国. （等待实审提案）</li>
 <li> 张艺千,<b>周长建</b> , 向文胜, 吴秋峰, 康承昊, 宋佳. 一种基于PfgPDI 的蛋白质-配体相互作用预测方法. 中国. （等待实审提案）<br>
 <li> 闫笑川, <b>周长建</b>. 一种基于分解策略与深度学习的电力负荷预测方法. 中国. （等待实审提案）</li>
+</font>
 <br>
 
 <font face="微软雅黑" size=5>软件著作权</font>
 <br>
-
+<font face="微软雅黑" size=4>
 [1] 基于计算机视觉与深度学习的在线课堂学生专注度分析系统<br>
 [2] 作物叶片病害识别与检测系统<br>
 [3] 基于计算机视觉的考试作弊检测系统<br>
@@ -165,5 +177,5 @@ redirect_from:
 [74] 基于DrugBank的深度学习DDI设计系统<br>
 [75] 基于深度学习的恶意软件检测系统<br>
 [76] 基于多模态机器学习的网页防篡改检测软件<br>
-
 </font>
+<br>
