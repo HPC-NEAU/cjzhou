@@ -11,7 +11,7 @@ redirect_from:
 
 <font face="微软雅黑" size=4>
 <p style="line-height:2.0">
-<font face="宋体" size=6>研究生招生专业</font>
+<font face="微软雅黑" size=5>研究生招生专业</font>
 
 
 <li>生命科学学院&emsp;&emsp;微生物学&emsp;&emsp;&emsp;&emsp;&emsp;学术性硕士研究生</li>
@@ -20,14 +20,14 @@ redirect_from:
 
 &nbsp;
 <br>
-<font face="宋体" size=6>本科实习生招生</font>
+<font face="微软雅黑" size=5>本科实习生招生</font>
 
 <li>每年大一下学期面向全校理工科本科生招生，要求本科生对科研工作有强烈的兴趣，具有较强创新性和探索精神；</li>
 <li>实验室会针对申请加入的本科生开展人工智能基础培训，经考核合格后方可加入。</li>
 <br>
 &nbsp;
 <br>
-<font face="宋体" size=6>学生情况</font>
+<font face="微软雅黑" size=5>学生情况</font>
 
 &nbsp;
 <br>
