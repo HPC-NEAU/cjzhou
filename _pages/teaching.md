@@ -27,41 +27,33 @@ redirect_from:
 <br>
 &nbsp;
 <br>
-<font face="微软雅黑" size=5>学生情况</font>
+<font face="微软雅黑" size=5>在读学生</font>
 
-&nbsp;
-<br>
-
-<font face="黑体" size=5>在读学生</font>
-
-&nbsp;
 <br>
 
 刘禹彤&emsp;&emsp;2024级硕士研究生<br>
 凌彤彤&emsp;&emsp;2024级硕士研究生<br>
 王文慧&emsp;&emsp;2024级硕士研究生<br>
-
+<br>
 邱玥曦&emsp;&emsp;2022级本科生<br>
 余&emsp;璐&emsp;&emsp;2022级本科生<br>
 
-
-<font face="黑体" size=5>毕业生及去向</font>
-
-&nbsp;
+<br>
+<font face="微软雅黑" size=5>毕业生及去向</font>
 <br>
 
 周思寒&emsp;&emsp;2018级本科生&emsp;&emsp;大连理工大学（硕博连读）<br>
 张之尧&emsp;&emsp;2018级本科生&emsp;&emsp;东北大学（读研）<br>
-
+<br>
 冯毓权&emsp;&emsp;2019级本科生&emsp;&emsp;哈尔滨工业大学重庆研究院<br>
 陈文卓&emsp;&emsp;2019级本科生&emsp;&emsp;大连海事大学（读研）<br>
 张语桐&emsp;&emsp;2019级本科生&emsp;&emsp;河海大学（读研）<br>
 贾&emsp;贺&emsp;&emsp;2019级本科生&emsp;&emsp;东北大学 （读研）<br>
-
+<br>
 赵振元&emsp;&emsp;2020级本科生&emsp;&emsp;山东大学（读研）<br>
 徐国桓&emsp;&emsp;2020级本科生&emsp;&emsp;华南理工大学（读研）<br>
 钟玉杰&emsp;&emsp;2020级本科生&emsp;&emsp;待定<br>
-
+<br>
 李中正&emsp;&emsp;2021级本科生&emsp;&emsp;北京理工大学（读研）<br>
 储李节&emsp;&emsp;2021级本科生&emsp;&emsp;中国科学技术大学（读研）<br>
 张艺千&emsp;&emsp;2021级本科生&emsp;&emsp;东南大学（读研）<br>
@@ -70,6 +62,11 @@ redirect_from:
 张&emsp;鑫&emsp;&emsp;2021级本科生&emsp;&emsp;待定<br>
 闫笑川&emsp;&emsp;2021级本科生&emsp;&emsp;待定<br>
 
+<br>
+<font face="微软雅黑" size=5>联系方式</font>
+<br>
+欢迎感兴趣的同学给我发邮件：zhouchangjian@neau.edu.cn
+<br>
 </p>
 </font> 
 
