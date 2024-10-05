@@ -1,3 +1,4 @@
+---
 layout: archive
 title: ""
 permalink: /parttimes/
@@ -7,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+
 
 <p style="line-height:2.0">
 
