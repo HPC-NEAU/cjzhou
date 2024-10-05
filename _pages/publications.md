@@ -4,6 +4,7 @@ title: "Academic webpage of Changjian Zhou"
 author_profile: true
 redirect_from: 
   - /about/
+:
 
 已取得成果
 =
