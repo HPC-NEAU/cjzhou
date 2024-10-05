@@ -9,8 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-研究生招生专业
-======
+<font face="微软雅黑" size=4>
+<p style="line-height:2.0">
+<font face="宋体" size=6>研究生招生专业</font>
+
 
 <li>生命科学学院&emsp;&emsp;微生物学&emsp;&emsp;&emsp;&emsp;&emsp;学术性硕士研究生</li>
 <li>文理学院&emsp;&emsp;&emsp;&emsp;应用统计&emsp;&emsp;&emsp;&emsp;&emsp;专业型硕士研究生</li>
@@ -18,16 +20,23 @@ redirect_from:
 
 &nbsp;
 <br>
-本科实习生招生
-======
+<font face="宋体" size=6>本科实习生招生</font>
+
 <li>每年大一下学期面向全校理工科本科生招生，要求本科生对科研工作有强烈的兴趣，具有较强创新性和探索精神；</li>
 <li>实验室会针对申请加入的本科生开展人工智能基础培训，经考核合格后方可加入。</li>
+<br>
 &nbsp;
 <br>
-学生情况
-======
-在读学生
----
+<font face="宋体" size=6>学生情况</font>
+
+&nbsp;
+<br>
+
+<font face="黑体" size=5>在读学生</font>
+
+&nbsp;
+<br>
+
 刘禹彤&emsp;&emsp;2024级硕士研究生<br>
 凌彤彤&emsp;&emsp;2024级硕士研究生<br>
 王文慧&emsp;&emsp;2024级硕士研究生<br>
@@ -36,8 +45,11 @@ redirect_from:
 余&emsp;璐&emsp;&emsp;2022级本科生<br>
 
 
-毕业生及去向
----
+<font face="黑体" size=5>毕业生及去向</font>
+
+&nbsp;
+<br>
+
 周思寒&emsp;&emsp;2018级本科生&emsp;&emsp;大连理工大学（硕博连读）<br>
 张之尧&emsp;&emsp;2018级本科生&emsp;&emsp;东北大学（读研）<br>
 
@@ -58,5 +70,6 @@ redirect_from:
 张&emsp;鑫&emsp;&emsp;2021级本科生&emsp;&emsp;待定<br>
 闫笑川&emsp;&emsp;2021级本科生&emsp;&emsp;待定<br>
 
-
+</p>
+</font> 
 

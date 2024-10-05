@@ -1,11 +1,16 @@
 ---
 layout: archive
 title: ""
-permalink: /Publications/
+permalink: /publications/
 author_profile: true
 redirect_from:
   - /resume
 ---
+
+
+{% include base_path %}
+
+
 
 已取得成果
 =
