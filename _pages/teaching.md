@@ -37,6 +37,10 @@ redirect_from:
 <br>
 邱玥曦&emsp;&emsp;2022级本科生<br>
 余&emsp;璐&emsp;&emsp;2022级本科生<br>
+<br>
+<font face="微软雅黑" size=5>客座学生</font>
+向家玉&emsp;&emsp;本科生&emsp;&emsp;中国农业大学<br>
+李嘉丰&emsp;&emsp;研究生&emsp;&emsp;Cornell University<br>
 
 <br>
 <font face="微软雅黑" size=5>毕业生及去向</font>
