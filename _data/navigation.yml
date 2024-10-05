@@ -5,7 +5,7 @@
 # prevent it from being included in the site.
 
 main:
-    - title: "个人信息"
+  - title: "个人信息"
     url: /cv/
     
   - title: "主要成果"
