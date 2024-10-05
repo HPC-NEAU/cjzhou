@@ -14,7 +14,7 @@ redirect_from:
 <font face="微软雅黑" size=5>研究生招生专业</font>
 
 
-<li>生命科学学院&emsp;&emsp;微生物学&emsp;&emsp;&emsp;&emsp;&emsp;学术性硕士研究生</li>
+<li>生命科学学院&emsp;&emsp;微生物学&emsp;&emsp;&emsp;&emsp;&emsp;学术型硕士研究生</li>
 <li>文理学院&emsp;&emsp;&emsp;&emsp;应用统计&emsp;&emsp;&emsp;&emsp;&emsp;专业型硕士研究生</li>
 <li>工程学院&emsp;&emsp;&emsp;&emsp;工业工程与管理&emsp;&emsp;专业型硕士研究生</li>
 
@@ -22,7 +22,7 @@ redirect_from:
 <br>
 <font face="微软雅黑" size=5>本科实习生招生</font>
 
-<li>每年大一下学期面向全校理工科本科生招生，要求本科生对科研工作有强烈的兴趣，具有较强创新性和探索精神；</li>
+<li>每年大一下学期面向全校理工科本科生招生，要求本科生对科研工作有强烈的兴趣，具有较强创新精神和探索精神；</li>
 <li>实验室会针对申请加入的本科生开展人工智能基础培训，经考核合格后方可加入。</li>
 <br>
 &nbsp;
