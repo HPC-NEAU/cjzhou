@@ -8,7 +8,7 @@ redirect_from:
 ---
 &nbsp;
 <br/>
-**AI药物设计组简介**
+AI药物设计组简介<br>
 ====
 
 <font face="微软雅黑" size=4>
@@ -20,7 +20,7 @@ redirect_from:
 &nbsp;
 <br/>
 
-**组内大事记**
+组内大事记<br>
 ====
 
 <font face="微软雅黑" size=4>
