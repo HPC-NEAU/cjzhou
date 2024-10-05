@@ -16,7 +16,7 @@ redirect_from:
 学习经历
 ======
 * 博士&emsp;&emsp;东北农业大学&emsp;&emsp;微生物学
-* 硕士&emsp;&emsp;东北农业大学&emsp;&emsp;计算机科学与技术
+* 硕士&emsp;&emsp;哈尔滨工程大学&emsp;计算机科学与技术
 * 学士&emsp;&emsp;黑龙江大学&emsp;&emsp;&emsp;信息管理与信息系统
 
 工作经历
