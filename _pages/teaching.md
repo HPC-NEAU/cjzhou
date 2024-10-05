@@ -11,13 +11,13 @@ redirect_from:
 
 研究生招生
 ======
-招生专业分布<br>
-<br>
+招生专业分布
 <li>生命科学学院&emsp;&emsp;微生物学&emsp;&emsp;&emsp;&emsp;&emsp;学术性硕士研究生</li>
 <li>文理学院&emsp;&emsp;&emsp;&emsp;应用统计&emsp;&emsp;&emsp;&emsp;&emsp;专业型硕士研究生</li>
 <li>工程学院&emsp;&emsp;&emsp;&emsp;工业工程与管理&emsp;&emsp;专业型硕士研究生</li>
 
-
+&nbsp;
+<br>
 本科实习生招生
 ======
 * 每年大一下学期面向全校理工科本科生招生，要求本科生对科研工作有强烈的兴趣，具有创新性和探索精神；
