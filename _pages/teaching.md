@@ -63,9 +63,9 @@ redirect_from:
 </ul>
 
 		<font face="微软雅黑" size=4>联系方式</font>
-	<br>
+	<ul>
 	<li>欢迎感兴趣的同学给我发邮件：zhouchangjian@neau.edu.cn</li>
-	<br>
+	</ul>
 
 	</font> 
 
