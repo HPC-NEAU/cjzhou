@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-<font face="微软雅黑" size=4>
+<font face="微软雅黑" size=3>
 <p style="line-height:2.0">
-<font face="微软雅黑" size=5>研究生招生专业</font>
+<font face="微软雅黑" size=4>研究生招生专业</font>
 
 
 <li>生命科学学院&emsp;&emsp;微生物学&emsp;&emsp;&emsp;&emsp;&emsp;学术型硕士研究生</li>
@@ -20,14 +20,14 @@ redirect_from:
 
 &nbsp;
 <br>
-<font face="微软雅黑" size=5>本科实习生招生</font>
+<font face="微软雅黑" size=4>本科实习生招生</font>
 
 <li>每年大一下学期面向全校理工科本科生招生，要求本科生对科研工作有强烈的兴趣，具有较强创新精神和探索精神；</li>
 <li>实验室会针对申请加入的本科生开展人工智能基础培训，经考核合格后方可加入。</li>
 <br>
 &nbsp;
 <br>
-<font face="微软雅黑" size=5>在读学生</font>
+<font face="微软雅黑" size=4>在读学生</font>
 
 <br>
 刘禹彤&emsp;&emsp;2024级硕士研究生<br>
@@ -38,13 +38,13 @@ redirect_from:
 余&emsp;璐&emsp;&emsp;2022级本科生<br>
 <br>
 
-<font face="微软雅黑" size=5>客座学生</font>
+<font face="微软雅黑" size=4>客座学生</font>
 <br>
 向家玉&emsp;&emsp;本科生&emsp;&emsp;中国农业大学<br>
 李嘉丰&emsp;&emsp;研究生&emsp;&emsp;Cornell University<br>
 
 <br>
-<font face="微软雅黑" size=5>毕业生及去向</font>
+<font face="微软雅黑" size=4>毕业生及去向</font>
 <br>
 
 周思寒&emsp;&emsp;2018级本科生&emsp;&emsp;大连理工大学（硕博连读）<br>
@@ -68,7 +68,7 @@ redirect_from:
 闫笑川&emsp;&emsp;2021级本科生&emsp;&emsp;待定<br>
 
 <br>
-<font face="微软雅黑" size=5>联系方式</font>
+<font face="微软雅黑" size=4>联系方式</font>
 <br>
 欢迎感兴趣的同学给我发邮件：zhouchangjian@neau.edu.cn
 <br>
