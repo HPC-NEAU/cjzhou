@@ -17,18 +17,18 @@ redirect_from:
 	<li> <b>周长建</b>,等. 新型生物农药分子创制与产业化：基于人工智能的微生物源农药新活性化合物挖掘与活性研究. 国家重点研发计划子课题. 2023.12~2027.12.（主持） </li>
 	<li> <b>周长建</b>,等. 复杂环境下基于多模态自监督学习的玉米病害识别与预警，黑龙江省省属本科高校“优秀青年教师基础研究支持计划”项目. 2024.01~2026.12.（主持）</li>
 	<li> <b>周长建</b>, 等. 农业院校高性能计算平台支撑学生计算能力培养效能提升路径研究.黑龙江省哲学社会科学研究规划项目一般项目.2023.12~2026.12.（主持） </li>
-	<li> <b>周长建</b>, 冯毓权等. 软件的加密解密模块设计. 哈尔滨工业大学横向课题. 2022-2023.（主持）</li>
+	<li> <b>周长建</b>,等. 软件的加密解密模块设计. 哈尔滨工业大学横向课题. 2022-2023.（主持）</li>
 	<li> <b>周长建</b>,等. 黑龙江省“三区人才”项目，2024.01-2025.06.（主持） </li>
 </ul>
 
 
 		<font face="微软雅黑" size=4>教改项目</font>
 <ul>
-	<li> <b>周长建</b>, 梁云福, 李建泽, 冯宝龙. 地方院校“七位一体”高性能计算人才培养模式研究与实践. 2022年度黑龙江省高等教育教学改革项目. 2022～2024.（主持）</li>
-	<li> <b>周长建</b>, 冯宝龙, 高飞等. 疫情防控常态化背景下农业院校线上线下混合式教学技术支撑体系构建研究. 黑龙江省教育科学规划重点课题.  2021~2022.（主持）</li>
-	<li> <b>周长建</b>, 梁云福等. 线上线下混合式教学模式下基于微表情识别的学生专注度评价方法与实践. 中国教育技术协会高等农业院校分会2021年度智慧校园专项课题.重点课题, 2020~2022.（主持）</li>
+	<li> <b>周长建</b>, 等. 地方院校“七位一体”高性能计算人才培养模式研究与实践. 2022年度黑龙江省高等教育教学改革项目. 2022～2024.（主持）</li>
+	<li> <b>周长建</b>, 等. 疫情防控常态化背景下农业院校线上线下混合式教学技术支撑体系构建研究. 黑龙江省教育科学规划重点课题.  2021~2022.（主持）</li>
+	<li> <b>周长建</b>, 等. 线上线下混合式教学模式下基于微表情识别的学生专注度评价方法与实践. 中国教育技术协会高等农业院校分会2021年度智慧校园专项课题.重点课题, 2020~2022.（主持）</li>
 	<li> <b>周长建</b>,等. 基于三维视觉的高校数据中心监管平台研究与实践. 中国教育技术协会高等农业院校分会2023年度智慧校园专项课题.2022.12~2024.12.（主持）</li>
-	<li> 邢金阁, <b>周长建</b>,刘海波.基于大数据的高等教育教学评价模型研究.中国高等教育学会2016教育信息化专项课题. 2016~2018.（主持）</li>
+	<li> 邢金阁, <b>周长建</b>,等.基于大数据的高等教育教学评价模型研究.中国高等教育学会2016教育信息化专项课题. 2016~2018.（主持）</li>
 </ul>
 
 
@@ -36,14 +36,14 @@ redirect_from:
 <ul>
 	<li> Haibo Liu,<b>Changjian Zhou</b>, Jing Shen, Pingke Li and Shengping Zhang. Video Caption Detection Algorithm Based on Multiple Instance Learning. ICICSE10, Harbin, China, 2010. (EI)</li>
 	<li> Haibo Liu, <b>Changjian Zhou</b>, Jing Shen. A Survey on Video Caption Extraction. ICICSE10, Harbin, China, 2010. (EI)</li>
-	<li> <b>周长建</b>,司震宇,邢金阁,刘海波. 基于Deep Learning网络态势感知建模方法研究,东北农业大学学报,2013(05).(北大核心/一级期刊)</li>
+	<li> <b>周长建</b>,等. 基于Deep Learning网络态势感知建模方法研究,东北农业大学学报,2013(05).(北大核心/一级期刊)</li>
 	<li> <b>Changjian Zhou</b>, Jinge Xing, Haibo Liu. Multiple Properties-Based Moving Object Detection Algorithm, Journal of Information Processing Systems, vol. 17, no. 1, pp. 124-135, 2021. (EI)</li>
 	<li> <b>Changjian Zhou</b>, Sihan Zhou, Jinge Xing and Jia Song. Tomato Leaf Disease Identification by Restructured Deep Residual Dense Network. IEEE Access, vol. 9, pp. 28822-28831, 2021. (SCI)</li>
 	<li> <b>Changjian Zhou</b>, Jia Song, Sihan Zhou, Zhiyao Zhang, Jinge Xing. COVID-19 Detection based on Image Regrouping and ResNet-SVM Using Chest X-ray Images. IEEE Access. vol. 9, pp. 81902-81912, 2021, (SCI)</li>
 	<li> <b>Changjian Zhou</b>, Zhiyao Zhang, Sihan Zhou, Jinge Xing, Qiufeng Wu, and Jia Song. Grape Leaf Spot Identification under Limited Samples by Fine Grained-GAN. IEEE Access. vol. 9, pp. 100480-100489, 2021.(SCI)</li>
 	<li> <b>Changjian Zhou</b> , Jinge Xing * . Improved Deep Residual Network for Apple Leaf Disease Identification. Journal of Information Processing Systems. vol. 17, no. 6, pp. 1115-1126, 2021.12.(EI) </li>
 	<li><b>周长建</b>，宋佳, 向文胜 * . 基于人工智能的作物病害识别研究进展. 植物保护学报,2022,49(1):316-324. （中文核心/卓越期刊/CSCD,一级期刊）</li>
-	<li><b>周长建</b>,宋佳,向文胜. 人工智能在农药精准施药中的应用研究进展. 农药学学报,2022, 24(05):1099-1107. （中文核心/CSCD）</li>
+	<li><b>周长建</b>，宋佳，向文胜. 人工智能在农药精准施药中的应用研究进展. 农药学学报,2022, 24(05):1099-1107. （中文核心/CSCD）</li>
 	<li> Xi Xu, Jingjing Li, Xilang Yang, Li Zhang, Shuo Wang, Guijin Shen, Hui Bing, Jialei, <b>Changjian Zhou</b>, Xiangjing Wang, Junwei Zhao , Wensheng Xiang. Epicoccum spp. causing maize leaf spot in Heilongjiang Province, China. Plant Disease. vol.106, no. 12, pp.3050-3060,2022.12.  (SCI) </li>
 	<li> <b>Changjian Zhou</b>, Yujie Zhong, Sihan Zhou, Jia Song * , and Wensheng Xiang * .  Rice leaf disease identification by Residual-distilled transformer. Engineering Applications of Artificial Intelligence. 2023(121):106020. (SCI)</li>
 	<li> 邢金阁，张鑫，<b>周长建</b> . 融合DRAE与SVM的网页防篡改检测. 福州大学学报（自然科学版),2023,51(05):652-656.（中文核心）</li>
@@ -59,9 +59,9 @@ redirect_from:
 
 		<font face="微软雅黑" size=4>编著与教材</font>
 <ul>
-	<li> 刘海波,沈晶,郭耸等.Visual C++ 数字图像处理技术详解[M].机械工业出版社,2010（负责编写第10~11章）</li>
-	<li> 刘海波,沈晶,<b>周长建</b>．Access 2003 项目教程[M].人民邮电出版社,2011</li>
-	<li> 沈晶,刘海波,<b>周长建</b>. Visual C++ 数字图像处理案例详解[M].机械工业出版社,2012（机械工业出版社）</li>
+	<li> 刘海波，沈晶，郭耸等.Visual C++ 数字图像处理技术详解[M].机械工业出版社,2010（负责编写第10~11章）</li>
+	<li> 刘海波，沈晶，<b>周长建</b>．Access 2003 项目教程[M].人民邮电出版社,2011</li>
+	<li> 沈晶，刘海波，<b>周长建</b>. Visual C++ 数字图像处理案例详解[M].机械工业出版社,2012（机械工业出版社）</li>
 </ul>
 
 		<font face="微软雅黑" size=4>参与国家及地方标准起草工作</font>
