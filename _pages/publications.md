@@ -11,7 +11,7 @@ redirect_from:
 
 <p style="line-height:2.0">
 	<font face="微软雅黑" size=3>
-		<font face="微软雅黑" size=4>科研项目</font>
+		<font face="微软雅黑" size=4><b>科研项目</b></font>
 
 <ul>
 	<li> <b>周长建</b>,等. 新型生物农药分子创制与产业化：基于人工智能的微生物源农药新活性化合物挖掘与活性研究. 国家重点研发计划子课题. 2023.12~2027.12.（主持） </li>
@@ -22,7 +22,7 @@ redirect_from:
 </ul>
 
 
-		<font face="微软雅黑" size=4>教改项目</font>
+		<font face="微软雅黑" size=4><b>教改项目</b></font>
 <ul>
 	<li> <b>周长建</b>, 等. 地方院校“七位一体”高性能计算人才培养模式研究与实践. 2022年度黑龙江省高等教育教学改革项目. 2022～2024.（主持）</li>
 	<li> <b>周长建</b>, 等. 疫情防控常态化背景下农业院校线上线下混合式教学技术支撑体系构建研究. 黑龙江省教育科学规划重点课题.  2021~2022.（主持）</li>
@@ -32,7 +32,7 @@ redirect_from:
 </ul>
 
 
-		<font face="微软雅黑" size=4>发表论文</font>
+		<font face="微软雅黑" size=4><b>发表论文</b></font>
 <ul>
 	<li> Haibo Liu,<b>Changjian Zhou</b>, Jing Shen, Pingke Li and Shengping Zhang. Video Caption Detection Algorithm Based on Multiple Instance Learning. ICICSE10, Harbin, China, 2010. (EI)</li>
 	<li> Haibo Liu, <b>Changjian Zhou</b>, Jing Shen. A Survey on Video Caption Extraction. ICICSE10, Harbin, China, 2010. (EI)</li>
@@ -57,14 +57,14 @@ redirect_from:
 	<li><b>周长建</b>,等. 地方院校“七位一体”高性能计算人才培养模式研究. 工业和信息化教育. (已接收). </li>
 </ul>
 
-		<font face="微软雅黑" size=4>编著与教材</font>
+		<font face="微软雅黑" size=4><b>编著与教材</b></font>
 <ul>
 	<li> 刘海波，沈晶，郭耸等.Visual C++ 数字图像处理技术详解[M].机械工业出版社,2010（负责编写第10~11章）</li>
 	<li> 刘海波，沈晶，<b>周长建</b>．Access 2003 项目教程[M].人民邮电出版社,2011</li>
 	<li> 沈晶，刘海波，<b>周长建</b>. Visual C++ 数字图像处理案例详解[M].机械工业出版社,2012（机械工业出版社）</li>
 </ul>
 
-		<font face="微软雅黑" size=4>参与国家及地方标准起草工作</font>
+		<font face="微软雅黑" size=4><b>参与国家及地方标准起草工作</b></font>
 <ul>
 	<li> 《IPv6+技术要求 第1部分：应用与需求场景》. 国家标准. 20221745-T-339，归口单位：全国通信标准化技术委员会编号TC485，主管部门：工业和信息化部（通信）. 东北农业大学：<b>周长建</b>，等.</li>
 	<li>《IPv6支持度评测指标与评测方法 第1部分：网站》. 国家标准. 20221745-T-339，归口单位：全国通信标准化技术委员会编号TC485，主管部门：工业和信息化部（通信）. 东北农业大学：<b>周长建</b> 等.</li>
@@ -72,7 +72,7 @@ redirect_from:
 	<li> 农业核心资源数据库构建技术规范. 黑龙江省地方标准.  主要起草人：康承昊、吴秋峰、<b>周长建</b> 等.</li>
 </ul>
 
-		<font face="微软雅黑" size=4>发明专利</font>
+		<font face="微软雅黑" size=4><b>发明专利</b></font>
 <ul>
 	<li> <b>周长建</b>,等. 一种基于DCGAN与RDN的作物病害识别方法及系统. 中国. （已授权）</li>
 	<li> <b>周长建</b>,等. 一种基于DRAE与SVM相结合的网页防篡改检测方法. （已授权）</li>
@@ -89,7 +89,7 @@ redirect_from:
 	<li> 闫笑川, <b>周长建</b>. 一种基于分解策略与深度学习的电力负荷预测方法. 中国. （等待实审提案）</li>
 </ul>
 
-		<font face="微软雅黑" size=4>软件著作权</font>
+		<font face="微软雅黑" size=4><b>软件著作权</b></font>
 <ul>
 	[1] 基于计算机视觉与深度学习的在线课堂学生专注度分析系统<br>
 	[2] 作物叶片病害识别与检测系统<br>
