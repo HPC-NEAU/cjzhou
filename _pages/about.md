@@ -18,7 +18,7 @@ redirect_from:
 &emsp;&emsp;AI药物设计组欢迎具有创新精神和科研兴趣的同学报考研究生，欢迎对人工智能药物设计感兴趣的本科生加入，也欢迎国内外高校研究生或高年级本科生来实验室客座访问交流。<br>
 <p style="color:red;">&emsp;&emsp;让我们一起用计算武器破解生命的密码，共创美好家园！</p>
 &emsp;&emsp;邮箱：zhouchangjian@neau.edu.cn
-</p>
+<br>
 <br>
 <font face="微软雅黑" size=4><b>主要研究方向</b></font>
 <ul>
