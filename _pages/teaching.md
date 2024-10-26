@@ -11,13 +11,6 @@ redirect_from:
 
 <p style="line-height:2.0">
 	<font face="微软雅黑" size=3>
-		<font face="微软雅黑" size=4><b>课程教学</b></font>
-<ul>
-	<li>计算生物学&emsp;&emsp;&emsp;&emsp;研究生课程</li>
-	<li>数据为王&emsp;&emsp;&emsp;&emsp;&emsp;本科生通识课</li>
-	<li>计算之美&emsp;&emsp;&emsp;&emsp;&emsp;本科生通识课</li>
-</ul>
-		
   		<font face="微软雅黑" size=4><b>研究生招生专业</b></font>
 <ul>
 	<li>生命科学学院&emsp;&emsp;微生物学&emsp;&emsp;&emsp;&emsp;&emsp;学术型硕士研究生（协助培养）</li>
@@ -30,7 +23,13 @@ redirect_from:
 	<li>每年大一下学期面向全校理工科本科生招生，要求本科生对科研工作有强烈的兴趣，具有较强创新精神和探索精神；</li>
 	<li>实验室会针对申请加入的本科生开展人工智能基础培训，经考核合格后方可加入。</li>
 </ul>
-		<font face="微软雅黑" size=4><b>在读学生</b></font>
+		<font face="微软雅黑" size=4><b>课程教学</b></font>
+<ul>
+	<li>计算生物学&emsp;&emsp;&emsp;&emsp;研究生课程</li>
+	<li>数据为王&emsp;&emsp;&emsp;&emsp;&emsp;本科生通识课</li>
+	<li>计算之美&emsp;&emsp;&emsp;&emsp;&emsp;本科生通识课</li>
+</ul>  
+	 	<font face="微软雅黑" size=4><b>在读学生</b></font>
 <ul>
 	<li>刘禹彤&emsp;&emsp;2024级硕士研究生</li>
 	<li>凌彤彤&emsp;&emsp;2024级硕士研究生</li>
