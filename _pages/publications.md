@@ -55,6 +55,7 @@ redirect_from:
 	<li> Xi Xu, Jingjing Li, Xilang Yang, Li Zhang, Shuo Wang, Guijin Shen, Hui Bing, Jialei, <b>Changjian Zhou</b>, Xiangjing Wang, Junwei Zhao , Wensheng Xiang. Epicoccum spp. causing maize leaf spot in Heilongjiang Province, China. Plant Disease. vol.106, no. 12, pp.3050-3060,2022.12.  (SCI) </li>
 	<li> Zishan Wang, Yan Xu, <b>Changjian Zhou</b>, Xiujun Sun, et al. Actinoplanes sandaracinus sp. nov., a novel ligninase- producing and cellulose-degrading actinobacterium isolated from soil. International Journal of Systematic and Evolutionary Microbiology. 2024.01.  (SCI)</li>
 	<li> <b>Changjian Zhou</b>, He Jia, Jinge Xing, and Yunfu Liang * . Multi-feature Fusion for E-learning based Student Concentration Analysis. Journal of Information Processing Systems. (EI/ESCI). (Accepted).</li>
+ 	<li> <b>Changjian Zhou</b>, Xin Zhang. Plant Disease Identification under Imbalanced Dataset using Hybrid Deep Learning Method. Journal of the Institution of Engineers (India): Series A. (EI). (Accepted).</li>
 	<li><b>周长建</b>,等. 地方院校“七位一体”高性能计算人才培养模式研究. 工业和信息化教育. (已接收). </li>
 </ul>
 
