@@ -39,8 +39,8 @@ redirect_from:
 	<li><b>Changjian Zhou</b>, Zhongzheng Li, Jia Song, and Wensheng Xiang. TransVAE-DTA: Transformer and Variational Autoencoder for Drug-Target Binding Affinity Prediction. Computer Methods and Programs in Biomedicine. 2024,244, 108003.(SCI)</li>
 	<li> Yiqian Zhang, <b>Changjian Zhou</b> * . PfgPDI: Pocket Feature-Enabled Graph Neural Network for Protein-Drug Interaction Prediction. Journal of Bioinformatics and Computational Biology. Vol. 22, No. 02, 2450004, 2024.05.30. (SCI) </li>
 	<li> <b>Changjian Zhou</b>, Zhenyuan Zhao, Wenzhuo Chen, Yuquan Feng, Jia Song * , and Wensheng Xiang * . Residual attention based multi-label learning for apple leaf disease identification. Journal of Agricultural Engineering.2024. (SCI). </li>
-  	<li> <b>Changjian Zhou</b>, Xin Zhang. Plant Disease Identification under Imbalanced Dataset using Hybrid Deep Learning Method.J. Inst. Eng. India Ser. A,2024. (EI) https://doi.org/10.1007/s40030-024-00851-z. </li>
-	<li> <b>Changjian Zhou</b>, Jia Song, Sihan Zhou, Zhiyao Zhang, Jinge Xing. COVID-19 Detection based on Image Regrouping and ResNet-SVM Using Chest X-ray Images. IEEE Access. vol. 9, pp. 81902-81912, 2021, (SCI)</li>
+  	<li> <b>Changjian Zhou</b>, Xin Zhang. Plant Disease Identification under Imbalanced Dataset using Hybrid Deep Learning Method.J. Inst. Eng. India Ser. A,2024. https://doi.org/10.1007/s40030-024-00851-z. (EI)</li>
+	<li> <b>Changjian Zhou</b>, Jia Song, Sihan Zhou, Zhiyao Zhang, Jinge Xing. COVID-19 Detection based on Image Regrouping and ResNet-SVM Using Chest X-ray Images. IEEE Access. vol. 9, pp. 81902-81912, 2021. (SCI)</li>
 	<li> <b>Changjian Zhou</b>, Zhiyao Zhang, Sihan Zhou, Jinge Xing, Qiufeng Wu, and Jia Song. Grape Leaf Spot Identification under Limited Samples by Fine Grained-GAN. IEEE Access. vol. 9, pp. 100480-100489, 2021.(SCI)</li>
 	<li> <b>Changjian Zhou</b>, Sihan Zhou, Jinge Xing and Jia Song. Tomato Leaf Disease Identification by Restructured Deep Residual Dense Network. IEEE Access, vol. 9, pp. 28822-28831, 2021. (SCI)</li>
 	<li><b>周长建</b>，宋佳, 向文胜 * . 基于人工智能的作物病害识别研究进展. 植物保护学报,2022,49(1):316-324. （中文核心/卓越期刊/CSCD,一级期刊）</li>
