@@ -38,7 +38,8 @@ redirect_from:
 	<li> <b>Changjian Zhou</b>, Yujie Zhong, Sihan Zhou, Jia Song * , and Wensheng Xiang * .  Rice leaf disease identification by Residual-distilled transformer. Engineering Applications of Artificial Intelligence. 2023(121):106020. (SCI)</li>
 	<li><b>Changjian Zhou</b>, Zhongzheng Li, Jia Song, and Wensheng Xiang. TransVAE-DTA: Transformer and Variational Autoencoder for Drug-Target Binding Affinity Prediction. Computer Methods and Programs in Biomedicine. 2024,244, 108003.(SCI)</li>
 	<li> Yiqian Zhang, <b>Changjian Zhou</b> * . PfgPDI: Pocket Feature-Enabled Graph Neural Network for Protein-Drug Interaction Prediction. Journal of Bioinformatics and Computational Biology. Vol. 22, No. 02, 2450004, 2024.05.30. (SCI) </li>
-	<li> <b>Changjian Zhou</b>, Zhenyuan Zhao, Wenzhuo Chen, Yuquan Feng, Jia Song * , and Wensheng Xiang * . Residual attention based multi-label learning for apple leaf disease identification. Journal of Agricultural Engineering. (SCI). </li>
+	<li> <b>Changjian Zhou</b>, Zhenyuan Zhao, Wenzhuo Chen, Yuquan Feng, Jia Song * , and Wensheng Xiang * . Residual attention based multi-label learning for apple leaf disease identification. Journal of Agricultural Engineering.2024. (SCI). </li>
+  	<li> <b>Changjian Zhou</b>, Xin Zhang. Plant Disease Identification under Imbalanced Dataset using Hybrid Deep Learning Method.J. Inst. Eng. India Ser. A,2024. (EI) https://doi.org/10.1007/s40030-024-00851-z. </li>
 	<li> <b>Changjian Zhou</b>, Jia Song, Sihan Zhou, Zhiyao Zhang, Jinge Xing. COVID-19 Detection based on Image Regrouping and ResNet-SVM Using Chest X-ray Images. IEEE Access. vol. 9, pp. 81902-81912, 2021, (SCI)</li>
 	<li> <b>Changjian Zhou</b>, Zhiyao Zhang, Sihan Zhou, Jinge Xing, Qiufeng Wu, and Jia Song. Grape Leaf Spot Identification under Limited Samples by Fine Grained-GAN. IEEE Access. vol. 9, pp. 100480-100489, 2021.(SCI)</li>
 	<li> <b>Changjian Zhou</b>, Sihan Zhou, Jinge Xing and Jia Song. Tomato Leaf Disease Identification by Restructured Deep Residual Dense Network. IEEE Access, vol. 9, pp. 28822-28831, 2021. (SCI)</li>
@@ -55,7 +56,6 @@ redirect_from:
 	<li> Xi Xu, Jingjing Li, Xilang Yang, Li Zhang, Shuo Wang, Guijin Shen, Hui Bing, Jialei, <b>Changjian Zhou</b>, Xiangjing Wang, Junwei Zhao , Wensheng Xiang. Epicoccum spp. causing maize leaf spot in Heilongjiang Province, China. Plant Disease. vol.106, no. 12, pp.3050-3060,2022.12.  (SCI) </li>
 	<li> Zishan Wang, Yan Xu, <b>Changjian Zhou</b>, Xiujun Sun, et al. Actinoplanes sandaracinus sp. nov., a novel ligninase- producing and cellulose-degrading actinobacterium isolated from soil. International Journal of Systematic and Evolutionary Microbiology. 2024.01.  (SCI)</li>
 	<li> <b>Changjian Zhou</b>, He Jia, Jinge Xing, and Yunfu Liang * . Multi-feature Fusion for E-learning based Student Concentration Analysis. Journal of Information Processing Systems. (EI/ESCI). (Accepted).</li>
- 	<li> <b>Changjian Zhou</b>, Xin Zhang. Plant Disease Identification under Imbalanced Dataset using Hybrid Deep Learning Method. Journal of the Institution of Engineers (India): Series A. (EI). (Accepted).</li>
 	<li><b>周长建</b>,等. 地方院校“七位一体”高性能计算人才培养模式研究. 工业和信息化教育. (已接收). </li>
 </ul>
 
