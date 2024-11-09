@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-
 参考：
 
 [Linux 系统教程（笔记）](https://zq99299.github.io/linux-tutorial/)
@@ -1751,3 +1750,5 @@ for sample in ${HOME}/exercise/raw_data/*trim_1.fq.gz;do
     fi
 done
 ```
+<br>
+作者：华中农业大学 刘浩
