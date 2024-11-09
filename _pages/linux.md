@@ -10,9 +10,6 @@ redirect_from:
 {% include base_path %}
 
 
-!!! info
-    新手用户如果没有Linux服务器可用，可以从 [linux学习环境](../linux/093-linux-exercise-env.md)中选择合适的Linux学习环境。
-
 参考：
 
 [Linux 系统教程（笔记）](https://zq99299.github.io/linux-tutorial/)
